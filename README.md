@@ -1,3 +1,9 @@
-# image_preprocessing
+# Image_classification
 
-이미지 분석을 위한 전처리 과정
+1. Image crawler with selenium
+ 
+2. Image preprocessing
+
+3. Model test
+
+4. Application development
